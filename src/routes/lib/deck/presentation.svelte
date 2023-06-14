@@ -14,6 +14,8 @@
 </Slide>
 
 <Slide animate>
+	<h2>With notes</h2>
+	<p>Press <code>s</code></p>
 	<Code>
 		{`
       const a = 1
