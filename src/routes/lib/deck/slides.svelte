@@ -6,9 +6,9 @@
 	import Markdown from 'reveal.js/plugin/markdown/markdown'
 	import Notes from 'reveal.js/plugin/notes/notes'
 
+	import 'highlight.js/styles/night-owl.css'
 	import 'reveal.js/dist/reveal.css'
-	import 'reveal.js/dist/theme/black.css'
-	import 'reveal.js/plugin/highlight/monokai.css'
+	import 'reveal.js/dist/theme/white.css'
 	import Presentation from './presentation.svelte'
 
 	onMount(() => {
@@ -28,6 +28,6 @@
 
 <div class="reveal">
 	<div class="slides">
-    <Presentation />
+		<Presentation />
 	</div>
 </div>
