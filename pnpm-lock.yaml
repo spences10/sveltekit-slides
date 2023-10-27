@@ -66,8 +66,8 @@ devDependencies:
     specifier: ^3.0.0
     version: 3.0.0(prettier@3.0.0)(svelte@4.0.0)
   reveal.js:
-    specifier: ^4.5.0
-    version: 4.5.0
+    specifier: ^5.0.0
+    version: 5.0.0
   svelte:
     specifier: ^4.0.0
     version: 4.0.0
@@ -2101,8 +2101,8 @@ packages:
     engines: {iojs: '>=1.0.0', node: '>=0.10.0'}
     dev: true
 
-  /reveal.js@4.5.0:
-    resolution: {integrity: sha512-Lx1hUWhJR7Y7ScQNyGt7TFzxeviDAswK2B0cn9RwbPZogTMRgS8+FTr+/12KNHOegjvWKH0H0EGwBARNDPTgWQ==}
+  /reveal.js@5.0.0:
+    resolution: {integrity: sha512-GXbW7GVJxgJh5szlh/jnifAMt9KBDh7Q4Or+v0q1hIaddn6vr4cvUFxoYsAfa5Hmw2G+6fIwZCDf3firB5FJHg==}
     engines: {node: '>=10.0.0'}
     dev: true
 
