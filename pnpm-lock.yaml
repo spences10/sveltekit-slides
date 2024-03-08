@@ -52,7 +52,7 @@ devDependencies:
     version: 2.30.0(eslint@8.42.0)(svelte@4.0.0)
   highlight.js:
     specifier: ^11.8.0
-    version: 11.8.0
+    version: 11.9.0
   postcss:
     specifier: ^8.4.23
     version: 8.4.24
@@ -619,7 +619,7 @@ packages:
       debug: 4.3.4
       deepmerge: 4.3.1
       kleur: 4.1.5
-      magic-string: 0.30.7
+      magic-string: 0.30.8
       svelte: 4.0.0
       svelte-hmr: 0.15.3(svelte@4.0.0)
       vite: 5.0.0
@@ -1607,8 +1607,8 @@ packages:
       function-bind: 1.1.1
     dev: true
 
-  /highlight.js@11.8.0:
-    resolution: {integrity: sha512-MedQhoqVdr0U6SSnWPzfiadUcDHfN/Wzq25AkXiQv9oiOO/sG0S7XkvpFIqWBl9Yq1UYyYOOVORs5UW2XlPyzg==}
+  /highlight.js@11.9.0:
+    resolution: {integrity: sha512-fJ7cW7fQGCYAkgv4CPfwFHrfd/cLS4Hau96JuJ+ZTOWhjnhoeN1ub1tFmALm/+lW5z4WCAuAV9bm05AP0mS6Gw==}
     engines: {node: '>=12.0.0'}
     dev: true
 
@@ -1832,8 +1832,8 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: true
 
-  /magic-string@0.30.7:
-    resolution: {integrity: sha512-8vBuFF/I/+OSLRmdf2wwFCJCz+nSn0m6DPvGH1fS/KiQoSaR+sETbov0eIk9KhEKy8CYqIkIAnbohxT/4H0kuA==}
+  /magic-string@0.30.8:
+    resolution: {integrity: sha512-ISQTe55T2ao7XtlAStud6qwYPZjE4GK1S/BeVPus4jrq6JuOnQ00YKQC581RWhR122W7msZV263KzVeLoqidyQ==}
     engines: {node: '>=12'}
     dependencies:
       '@jridgewell/sourcemap-codec': 1.4.15
