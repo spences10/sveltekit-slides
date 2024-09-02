@@ -10,13 +10,13 @@ importers:
     devDependencies:
       '@fontsource/manrope':
         specifier: ^5.0.3
-        version: 5.0.20
+        version: 5.0.21
       '@fontsource/poppins':
         specifier: ^5.0.3
-        version: 5.0.14
+        version: 5.0.15
       '@fontsource/victor-mono':
         specifier: ^5.0.3
-        version: 5.0.13
+        version: 5.0.14
       '@playwright/test':
         specifier: ^1.28.1
         version: 1.45.3
@@ -270,14 +270,14 @@ packages:
     resolution: {integrity: sha512-BsWiH1yFGjXXS2yvrf5LyuoSIIbPrGUWob917o+BTKuZ7qJdxX8aJLRxs1fS9n6r7vESrq1OUqb68dANcFXuQQ==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
-  '@fontsource/manrope@5.0.20':
-    resolution: {integrity: sha512-FW1t+WAvJroALa7zgd5S2dn3zy/sxxHhry/OwDGKmO7Be/zlLBIVaWW+cjyfyA6a6zWEx5YQ4OFfYlA6An5osQ==}
+  '@fontsource/manrope@5.0.21':
+    resolution: {integrity: sha512-epFrEcKE9Jm2yyqYspmpPV/cBDQrygQ5yNGt5Gv0P8TU5ks9ygYsbpx1U/WvQPOVFp5h+qFZjD9S6dZUzmRRRg==}
 
-  '@fontsource/poppins@5.0.14':
-    resolution: {integrity: sha512-nmM1zpPo3Uh4JcGAVSQuWaZNYh2FbbwWhZ5t6hRaynmJaNTBW85d3nEh9zMmzI0HX7X5xqQVdRHeDatKpOGsnA==}
+  '@fontsource/poppins@5.0.15':
+    resolution: {integrity: sha512-hN8jhlb01v0f8F3X5h8XUiqz/dMYg/RrhyHmU1o4gZIgk+Yj2SeqmRLBj88Lh+pEjdVTmbDXSHGCVlbyPaSm8A==}
 
-  '@fontsource/victor-mono@5.0.13':
-    resolution: {integrity: sha512-WdKQC1+N5Ts+3CidQ3FsRFgJ7/c8gY5zCDxXhWZWwvH5AJJmbDGHVB8XWnHtDF5+Ca7yuzixB57oK8HkuTisug==}
+  '@fontsource/victor-mono@5.0.14':
+    resolution: {integrity: sha512-TMTBJTqGiHZoamjoGgAL/p2zR4G6eoTeMCmK4Guz4gzDRwyOSgBXXU3WgNyY3Zm7S+/kowVje9ziMDC8MavDRg==}
 
   '@humanwhocodes/module-importer@1.0.1':
     resolution: {integrity: sha512-bxveV4V8v5Yb4ncFTT3rPSgZBOpCkjfK0y4oVVVJwIuDVBRMDXrPyXRL988i5ap9m9bnyEEjWfm5WkBmtffLfA==}
@@ -1925,11 +1925,11 @@ snapshots:
 
   '@eslint/object-schema@2.1.4': {}
 
-  '@fontsource/manrope@5.0.20': {}
+  '@fontsource/manrope@5.0.21': {}
 
-  '@fontsource/poppins@5.0.14': {}
+  '@fontsource/poppins@5.0.15': {}
 
-  '@fontsource/victor-mono@5.0.13': {}
+  '@fontsource/victor-mono@5.0.14': {}
 
   '@humanwhocodes/module-importer@1.0.1': {}
 
