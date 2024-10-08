@@ -31,7 +31,7 @@ importers:
         version: 0.5.15(tailwindcss@3.4.13)
       '@types/reveal.js':
         specifier: ^5.0.0
-        version: 5.0.3
+        version: 5.0.4
       '@typescript-eslint/eslint-plugin':
         specifier: ^8.0.0
         version: 8.8.0(@typescript-eslint/parser@8.8.0(eslint@9.10.0(jiti@1.21.6))(typescript@5.6.2))(eslint@9.10.0(jiti@1.21.6))(typescript@5.6.2)
@@ -464,8 +464,8 @@ packages:
   '@types/estree@1.0.6':
     resolution: {integrity: sha512-AYnb1nQyY49te+VRAVgmzfcgjYS91mY5P0TKUDCLEM+gNnA+3T6rWITXRLYCpahpqSQbN5cE+gHpnPyXjHWxcw==}
 
-  '@types/reveal.js@5.0.3':
-    resolution: {integrity: sha512-gwnK8TR38IOBIORWFrV5/z9lRX4iLke2FBqNgRhXxehaWJFkrzVY2TVzfdX/SX94eugt+OI5l++zDBBSfdzruQ==}
+  '@types/reveal.js@5.0.4':
+    resolution: {integrity: sha512-70Qua903NRU736r8Z94okthf6hXKm+brta/KdHFrK6GD16eTmGhPrDYGCUP7eNifEA2mvJGlNq1IR41ycIX0Yw==}
 
   '@typescript-eslint/eslint-plugin@8.8.0':
     resolution: {integrity: sha512-wORFWjU30B2WJ/aXBfOm1LX9v9nyt9D3jsSOxC3cCaTQGCW5k4jNpmjFv3U7p/7s4yvdjHzwtv2Sd2dOyhjS0A==}
@@ -1964,7 +1964,7 @@ snapshots:
 
   '@types/estree@1.0.6': {}
 
-  '@types/reveal.js@5.0.3': {}
+  '@types/reveal.js@5.0.4': {}
 
   '@typescript-eslint/eslint-plugin@8.8.0(@typescript-eslint/parser@8.8.0(eslint@9.10.0(jiti@1.21.6))(typescript@5.6.2))(eslint@9.10.0(jiti@1.21.6))(typescript@5.6.2)':
     dependencies:
